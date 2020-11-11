@@ -28,7 +28,7 @@
 ## 🔗 Know more about me 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](http://azmra.com/)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto: azmeerraaja@live.com)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:azmeerraaja@live.com)
 [![Twitter](https://img.shields.io/badge/-imShreyasPatil-black?style=for-the-badge&logo=twitter)](https://twitter.com/raaja_ar)
 [![Linkedin](https://img.shields.io/badge/-patilshreyas-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/azmra/)
 [![Google Play](https://img.shields.io/badge/-SPDroid-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/dev?id=7012940963759650326)
