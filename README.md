@@ -8,7 +8,7 @@
 
 #### 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 27 year old Information Technology Engineering Undergrad student.
+- 👨‍🎓 28 year old Information Technology Engineering Undergrad student.
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Ionic 🔥Firebase!
