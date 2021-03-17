@@ -16,12 +16,12 @@
 - ✍️ Stream stuff on [FB](https://facebook.com/m.azmra).
 - Loves 🎵 and 🎹.
 - Proud 🇮🇳.
-<!-- 
+
 <details>
   <summary><b>📊 Github Stats</b></summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patilshreyas&count_private=true&show_icons=true&include_all_commits=true" alt="Shreyas Patil | Stats" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=azmeerraaja&count_private=true&show_icons=true&include_all_commits=true" alt="Azmeer Raja M | Stats" />
 </details>
--->
+
 
 ---
 
